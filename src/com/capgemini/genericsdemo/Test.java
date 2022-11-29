@@ -1,7 +1,7 @@
 package com.capgemini.genericsdemo;
 
 
- class Test<T>
+ public class Test<T>
  {
 	  
 	 private T obj;
@@ -20,8 +20,7 @@ package com.capgemini.genericsdemo;
 	}
 	 
  } 
-	 
-public class GenericClassDemo {
+	 class GenericClassDemo {
 
 	public static void main(String[] args) {
 

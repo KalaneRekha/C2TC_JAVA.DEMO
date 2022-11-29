@@ -15,7 +15,7 @@ package com.capgemini.genericsdemo;
 		
 	}
 
-         public class SimpleDemo {
+          public class SimpleDemo {
 
 		public static void main(String[] args) {
 	   
